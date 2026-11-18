@@ -1,0 +1,45 @@
+{
+  "slug": "example",
+  "mockup": true,
+  "name": "Brightwater Plumbing & Heating",
+  "town": "Lancaster",
+  "headline": "Your local plumber in Lancaster",
+  "tagline": "Leaks, boilers, bathrooms and repairs. Fixed quotes before we start, tidy work, and we turn up when we say we will.",
+  "phone": "01632 960123",
+  "whatsapp": "",
+  "email": "hello@example.com",
+  "hours": "Mon–Fri 8am–6pm · Sat 9am–1pm",
+  "emergency": true,
+  "emergencyText": "Burst pipe or no heating? Same-day emergency call-outs",
+  "replyTime": "within a few hours",
+  "gasSafeNumber": "000000",
+  "insured": true,
+  "yearsTrading": 12,
+  "accreditations": [],
+  "rating": { "score": "4.9", "count": 87, "source": "Google", "url": "" },
+  "services": [
+    { "title": "Boiler installation", "text": "New combi and system boilers fitted, old boiler removed, controls set up. Manufacturer warranty registered for you." },
+    { "title": "Boiler repair & servicing", "text": "Breakdowns diagnosed and fixed, annual services and landlord gas safety certificates." },
+    { "title": "Leaks & emergencies", "text": "Burst pipes, leaking radiators, overflowing cisterns. We isolate, fix and make good." },
+    { "title": "Bathrooms & showers", "text": "Full bathroom refits, electric and mixer showers, wet rooms and accessible bathrooms." },
+    { "title": "Radiators & heating", "text": "New radiators, power flushing, thermostatic valves and cold-spot fixes." },
+    { "title": "Taps, toilets & blockages", "text": "Dripping taps, running toilets, slow drains. Small jobs welcome." }
+  ],
+  "areas": ["Lancaster", "Morecambe", "Heysham", "Carnforth", "Bolton-le-Sands", "Galgate", "Caton", "Garstang"],
+  "reviews": [
+    { "text": "Boiler died on a Friday night. They were round first thing Saturday and had the heating back on by lunch. Fair price, no fuss.", "author": "Sarah", "place": "Scotforth", "source": "Google" },
+    { "text": "Fitted our new combi in a day and left the place spotless. Explained the controls properly too.", "author": "Mark", "place": "Morecambe", "source": "Google" },
+    { "text": "Used them for three rental properties now. Gas certificates always on time and they deal with tenants directly.", "author": "J. Patel", "place": "Landlord, Lancaster", "source": "Google" }
+  ],
+  "gallery": [],
+  "faqs": [
+    { "q": "Do you charge for quotes?", "a": "No. Quotes for installations and bathrooms are free and fixed before we start." },
+    { "q": "Are you Gas Safe registered?", "a": "Yes. Our registration number is shown at the bottom of every page and you can check it on the Gas Safe Register website." },
+    { "q": "How quickly can you come out?", "a": "Emergencies are usually same day. Planned work is normally booked within a week or two." },
+    { "q": "Do you work for landlords?", "a": "Yes. We do gas safety certificates, repairs and boiler replacements for landlords and letting agents across the district." }
+  ],
+  "companyNumber": "",
+  "siteUrl": "",
+  "formEndpoint": "",
+  "colors": { "primary": "#0b4f6c", "accent": "#f26b1d" }
+}
